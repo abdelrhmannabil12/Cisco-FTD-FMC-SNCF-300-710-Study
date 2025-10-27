@@ -56,7 +56,7 @@ This repo serves as:
 ### 🌐 Connect with Me
 
 - 💼 [LinkedIn](https://www.linkedin.com/in/abdelrhamn-nabil-682a3b223/)  
-- 📧 abdelrhman12@gmail.com *(optional)*  
+- 📧 abdelrhman12@gmail.com 
 
 ---
 
