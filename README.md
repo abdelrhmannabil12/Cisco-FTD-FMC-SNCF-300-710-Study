@@ -19,8 +19,7 @@ Each project demonstrates key SNCF topics with clear explanations, screenshots, 
 - NAT (Auto, Manual, Static, Dynamic)  
 - Access Control Policies (ACP)  
 - URL filtering and Security Intelligence  
-- SSL/TLS policies and decryption  
-- VPN configuration (Site-to-Site and Remote Access)  
+- SSL/TLS policies and decryption    
 - Logging, monitoring, and troubleshooting techniques  
 
 ---
